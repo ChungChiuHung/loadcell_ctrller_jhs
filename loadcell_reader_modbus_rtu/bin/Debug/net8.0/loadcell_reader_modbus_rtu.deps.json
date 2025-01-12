@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "loadcell_reader_modbus_rtu/1.0.0": {
+        "runtime": {
+          "loadcell_reader_modbus_rtu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "loadcell_reader_modbus_rtu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

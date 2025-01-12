@@ -1,0 +1,14 @@
+G:\CodeHere\loadcell_reader_tw\loadcell_reader_modbus_rtu\bin\Debug\net8.0\loadcell_reader_modbus_rtu.exe
+G:\CodeHere\loadcell_reader_tw\loadcell_reader_modbus_rtu\bin\Debug\net8.0\loadcell_reader_modbus_rtu.deps.json
+G:\CodeHere\loadcell_reader_tw\loadcell_reader_modbus_rtu\bin\Debug\net8.0\loadcell_reader_modbus_rtu.runtimeconfig.json
+G:\CodeHere\loadcell_reader_tw\loadcell_reader_modbus_rtu\bin\Debug\net8.0\loadcell_reader_modbus_rtu.dll
+G:\CodeHere\loadcell_reader_tw\loadcell_reader_modbus_rtu\bin\Debug\net8.0\loadcell_reader_modbus_rtu.pdb
+G:\CodeHere\loadcell_reader_tw\loadcell_reader_modbus_rtu\obj\Debug\net8.0\loadcell_reader_modbus_rtu.GeneratedMSBuildEditorConfig.editorconfig
+G:\CodeHere\loadcell_reader_tw\loadcell_reader_modbus_rtu\obj\Debug\net8.0\loadcell_reader_modbus_rtu.AssemblyInfoInputs.cache
+G:\CodeHere\loadcell_reader_tw\loadcell_reader_modbus_rtu\obj\Debug\net8.0\loadcell_reader_modbus_rtu.AssemblyInfo.cs
+G:\CodeHere\loadcell_reader_tw\loadcell_reader_modbus_rtu\obj\Debug\net8.0\loadcell_reader_modbus_rtu.csproj.CoreCompileInputs.cache
+G:\CodeHere\loadcell_reader_tw\loadcell_reader_modbus_rtu\obj\Debug\net8.0\loadcell_reader_modbus_rtu.dll
+G:\CodeHere\loadcell_reader_tw\loadcell_reader_modbus_rtu\obj\Debug\net8.0\refint\loadcell_reader_modbus_rtu.dll
+G:\CodeHere\loadcell_reader_tw\loadcell_reader_modbus_rtu\obj\Debug\net8.0\loadcell_reader_modbus_rtu.pdb
+G:\CodeHere\loadcell_reader_tw\loadcell_reader_modbus_rtu\obj\Debug\net8.0\loadcell_reader_modbus_rtu.genruntimeconfig.cache
+G:\CodeHere\loadcell_reader_tw\loadcell_reader_modbus_rtu\obj\Debug\net8.0\ref\loadcell_reader_modbus_rtu.dll
