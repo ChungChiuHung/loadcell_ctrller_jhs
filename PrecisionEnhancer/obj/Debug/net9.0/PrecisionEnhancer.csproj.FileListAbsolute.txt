@@ -1,0 +1,15 @@
+G:\CodeHere\loadcell_ctrller_jhs\PrecisionEnhancer\bin\Debug\net9.0\PrecisionEnhancer.exe
+G:\CodeHere\loadcell_ctrller_jhs\PrecisionEnhancer\bin\Debug\net9.0\PrecisionEnhancer.deps.json
+G:\CodeHere\loadcell_ctrller_jhs\PrecisionEnhancer\bin\Debug\net9.0\PrecisionEnhancer.runtimeconfig.json
+G:\CodeHere\loadcell_ctrller_jhs\PrecisionEnhancer\bin\Debug\net9.0\PrecisionEnhancer.dll
+G:\CodeHere\loadcell_ctrller_jhs\PrecisionEnhancer\bin\Debug\net9.0\PrecisionEnhancer.pdb
+G:\CodeHere\loadcell_ctrller_jhs\PrecisionEnhancer\obj\Debug\net9.0\PrecisionEnhancer.GeneratedMSBuildEditorConfig.editorconfig
+G:\CodeHere\loadcell_ctrller_jhs\PrecisionEnhancer\obj\Debug\net9.0\PrecisionEnhancer.AssemblyInfoInputs.cache
+G:\CodeHere\loadcell_ctrller_jhs\PrecisionEnhancer\obj\Debug\net9.0\PrecisionEnhancer.AssemblyInfo.cs
+G:\CodeHere\loadcell_ctrller_jhs\PrecisionEnhancer\obj\Debug\net9.0\PrecisionEnhancer.csproj.CoreCompileInputs.cache
+G:\CodeHere\loadcell_ctrller_jhs\PrecisionEnhancer\obj\Debug\net9.0\PrecisionEnhancer.sourcelink.json
+G:\CodeHere\loadcell_ctrller_jhs\PrecisionEnhancer\obj\Debug\net9.0\PrecisionEnhancer.dll
+G:\CodeHere\loadcell_ctrller_jhs\PrecisionEnhancer\obj\Debug\net9.0\refint\PrecisionEnhancer.dll
+G:\CodeHere\loadcell_ctrller_jhs\PrecisionEnhancer\obj\Debug\net9.0\PrecisionEnhancer.pdb
+G:\CodeHere\loadcell_ctrller_jhs\PrecisionEnhancer\obj\Debug\net9.0\PrecisionEnhancer.genruntimeconfig.cache
+G:\CodeHere\loadcell_ctrller_jhs\PrecisionEnhancer\obj\Debug\net9.0\ref\PrecisionEnhancer.dll
