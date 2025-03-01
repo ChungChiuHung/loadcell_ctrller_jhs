@@ -7,6 +7,7 @@ ModbusRTU Interface Library for Load Cell
 
 <details>
   <summary>Install .NET Core</summary>
+  
 # Install Snap
 
 ## Step 1: Update Package Lists
